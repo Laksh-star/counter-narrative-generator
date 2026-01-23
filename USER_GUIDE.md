@@ -2,7 +2,7 @@
 
 This guide explains how to run the Counter-Narrative Generator end-to-end and what to expect from its outputs.
 
-![Three-Fish workflow placeholder](images/three-fish-workflow-placeholder.png)
+![Panchatantra Three-Fish Framework](images/three-fish-framework.png)
 
 ## Who This Is For
 
