@@ -38,15 +38,56 @@ python main.py interactive
 
 ## Example Output
 
-**Query:** *"Hiring fast is the key to startup success"*
+**Query:** *"VC Funding is a must to achieve unicorn status"*
 
-**Contrarian findings:**
+```
+📌 CONVENTIONAL WISDOM:
+   "VC Funding is a must to achieve unicorn status"
 
-> **Edwin Chen**: "The standard playbook is to blitz scale by hiring as fast as possible. And I've always disagreed."
+   Steelman: VC funding enables companies to move faster than competitors,
+   capture winner-take-all markets, and attract top talent through competitive
+   compensation. In markets with strong network effects, being second often
+   means being irrelevant...
 
-> **Ben Horowitz**: "Build that team slowly and deliberately, paced to your ability to integrate and then manage them."
+🔴 CONTRARIAN PERSPECTIVES:
 
-**Meta-lesson:** The effectiveness of hiring speed depends on your stage, the role complexity, and your capacity to integrate new people.
+   ▸ Steelmanned Contrarian Case:
+     VC funding creates perverse incentives: pressure for hyper-growth,
+     dark patterns, and blitzscaling past product-market fit...
+
+   ▸ Edwin Chen:
+     The 'Silicon Valley machine' mantras around constant pivoting and
+     blitz scaling can distract from building important things
+
+   ▸ Patrick Campbell:
+     Many businesses can achieve substantial scale generating tens of millions
+     in cash flow without any VC funding
+
+   ▸ Christopher Lochhead:
+     Apple started with six people and a small investment from a 'rich uncle'
+     and grew to $3 trillion potential
+
+⚖️ SYNTHESIS:
+   Real Disagreement: Whether speed-at-all-costs vs sustainable growth
+   is more durable, given the distortions VC incentives introduce.
+
+   ✅ Conventional wisdom applies when:
+      • Winner-take-all markets with network effects
+      • First-mover advantage is critical
+      • Business requires massive upfront capital
+
+   ❌ Contrarian view applies when:
+      • Competitive advantage is quality/expertise, not scale
+      • Profitability achievable in 12-24 months
+      • Control and long-term vision matter more
+
+   💡 META-LESSON:
+      The real question isn't 'Should I raise VC?' but 'What game am I
+      playing?' VC is optimized for winner-take-all markets. The danger
+      is adopting it as a cargo cult without examining your actual context.
+```
+
+> See the full JSON output: [`examples/sample_vc_funding.json`](examples/sample_vc_funding.json)
 
 ## CLI Commands
 
