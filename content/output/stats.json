@@ -1,0 +1,11 @@
+{
+  "episodes": 299,
+  "total_turns": 57582,
+  "total_chunks": 15969,
+  "input_dir": "/content/transcripts",
+  "output_dir": "/content/output",
+  "include_intro": false,
+  "redact_pii": true,
+  "target_words": 280,
+  "overlap_turns": 1
+}

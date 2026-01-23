@@ -1,0 +1,92 @@
+{
+  "test_queries": [
+    {
+      "id": "pmf-scaling",
+      "conventional_wisdom": "You need product-market fit before scaling",
+      "expected_topics": ["product-market-fit", "growth-strategy"],
+      "expected_contrarian_guests": ["Brian Chesky", "Reid Hoffman"],
+      "notes": "Classic debate about blitzscaling vs. patient growth"
+    },
+    {
+      "id": "user-feedback",
+      "conventional_wisdom": "You should build what users ask for",
+      "expected_topics": ["user-research", "product-development"],
+      "expected_contrarian_guests": ["Bob Moesta", "Marty Cagan"],
+      "notes": "Jobs-to-be-done vs. literal feature requests"
+    },
+    {
+      "id": "data-driven",
+      "conventional_wisdom": "All decisions should be data-driven",
+      "expected_topics": ["experimentation", "leadership"],
+      "expected_contrarian_guests": [],
+      "notes": "Intuition, taste, and vision vs. pure data"
+    },
+    {
+      "id": "hiring-speed",
+      "conventional_wisdom": "Hiring fast is essential for startup growth",
+      "expected_topics": ["hiring", "growth-strategy"],
+      "expected_contrarian_guests": [],
+      "notes": "Quality vs. speed in hiring"
+    },
+    {
+      "id": "vc-funding",
+      "conventional_wisdom": "You need VC funding to build a successful company",
+      "expected_topics": ["fundraising"],
+      "expected_contrarian_guests": ["Jason Fried"],
+      "notes": "Bootstrapping vs. VC path"
+    },
+    {
+      "id": "focus",
+      "conventional_wisdom": "Focus on one thing and do it really well",
+      "expected_topics": ["roadmap", "product-development"],
+      "expected_contrarian_guests": [],
+      "notes": "When diversification beats focus"
+    },
+    {
+      "id": "pricing-low",
+      "conventional_wisdom": "Start with low prices and raise them later",
+      "expected_topics": ["pricing"],
+      "expected_contrarian_guests": ["Madhavan Ramanujam", "Patrick Campbell"],
+      "notes": "Pricing strategy debates"
+    },
+    {
+      "id": "customer-first",
+      "conventional_wisdom": "The customer is always right",
+      "expected_topics": ["user-research", "product-development"],
+      "expected_contrarian_guests": [],
+      "notes": "When to ignore customer requests"
+    },
+    {
+      "id": "move-fast",
+      "conventional_wisdom": "Move fast and break things",
+      "expected_topics": ["culture", "product-development"],
+      "expected_contrarian_guests": [],
+      "notes": "Craft vs. speed"
+    },
+    {
+      "id": "metrics-north-star",
+      "conventional_wisdom": "Every team needs a single North Star metric",
+      "expected_topics": ["experimentation", "growth-strategy"],
+      "expected_contrarian_guests": [],
+      "notes": "Multi-metric approaches"
+    }
+  ],
+  "evaluation_criteria": {
+    "forethought": [
+      "Found at least 2 distinct contrarian perspectives",
+      "All perspectives genuinely disagree with conventional wisdom",
+      "Quotes are relevant and accurately extracted"
+    ],
+    "quickaction": [
+      "Each argument has clear thesis, reasoning, and evidence",
+      "Conditions for applicability are specified",
+      "Arguments are faithful to original quotes"
+    ],
+    "examiner": [
+      "Both sides are steelmanned fairly",
+      "Real disagreement type is correctly identified",
+      "Actionable guidance is provided",
+      "Meta-lesson is insightful"
+    ]
+  }
+}
