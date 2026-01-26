@@ -172,7 +172,7 @@ This system is optimized for cost-performance balance using OpenRouter.
 
 ## 🤝 Contributing & License
 
-**Background:** This project combines the *Panchatantra* (ancient Indian political science) with modern Agentic AI patterns. Read more about the philosophy here: [From the Terminator to Workflows](https://blog.stackademic.com/from-the-terminator-to-workflows-openai-agent-builders-promise-and-the-skeptics-at-the-gate-6d1e43ecf649).
+**Background:** This project combines the *Panchatantra* (ancient Indian political science) with modern Agentic AI patterns. Read more about the philosophy here: [From the Terminator to Workflows](https://blog.stackademic.com/from-the-terminator-to-workflows-openai-agent-builders-promise-and-the-skeptics-at-the-gate-6d1e43ecf649). and accompaniment article here: [Lenny Shared 300+ Podcast Transcripts. I Built a Tool That Argues Back.](https://medium.com/@LakshmiNarayana_U/lenny-shared-300-podcast-transcripts-i-built-a-tool-that-argues-back-fff61bc9057f)
 
 **License:** MIT
 
