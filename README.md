@@ -16,6 +16,23 @@ This application uses an agentic AI framework inspired by the Panchatantra to ch
 2. **Quickaction (Miner)** - Structures arguments and identifies common themes
 3. **Examiner (Architect)** - Synthesizes findings into a comprehensive decision framework
 
+### Workflow Diagram
+
+```mermaid
+graph TD
+    A[User Query] --> B(Forethought Agent)
+    B -->|Scout Disagreement| C{Vector DB}
+    C -->|Retrieve Contrarian Chunks| D(Quickaction Agent)
+    D -->|Mine Arguments| E(Examiner Agent)
+    E -->|Synthesize & Judge| F[Final Decision Boundary]
+```
+
+| Agent | Role | Model | Function |
+| :--- | :--- | :--- | :--- |
+| **Forethought**<br>*(Anagatavidhata)* | **The Scout** | `Gemini 2.5 Flash` | Scans the vector DB for guests who *disagree* with your premise. Prioritizes tension over consensus. |
+| **Quickaction**<br>*(Pratyutpannamati)* | **The Miner** | `Gemini 2.5 Flash Lite` | Extracts the strongest arguments for both sides, grounding every claim in specific transcript evidence. |
+| **Examiner**<br>*(Yadbhavishya)* | **The Judge** | `Claude Sonnet 4.5` | Synthesizes the conflict. Defines the *boundary conditions* for when each view is correct. |
+
 ## Architecture
 
 ### Backend (FastAPI)
