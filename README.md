@@ -1,6 +1,6 @@
 # Counter-Narrative Generator 🐟
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![TypeScript](https://img.shields.io/badge/typescript-5.0%2B-blue) ![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![TypeScript](https://img.shields.io/badge/typescript-5.0%2B-blue) ![Docker](https://img.shields.io/badge/docker-required-2496ED?logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Ready-4285F4?logo=googlecloud&logoColor=white) ![Status](https://img.shields.io/badge/status-active-success)
 
 > **"Founders don't only need recall. They need judgment."**
 
