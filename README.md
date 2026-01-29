@@ -55,6 +55,13 @@ graph TD
 
 ## Quick Start
 
+📖 **For complete step-by-step instructions**, see [SETUP.md](SETUP.md)
+
+This covers:
+- Fresh clone to running locally (web app & CLI)
+- Deployment to Google Cloud Run
+- Troubleshooting for all methods
+
 ### Prerequisites
 - Docker and Docker Compose
 - OpenRouter API key ([get one here](https://openrouter.ai/keys))
