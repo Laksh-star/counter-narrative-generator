@@ -1,6 +1,12 @@
-# Counter-Narrative Generator - Web Application
+# Counter-Narrative Generator 🐟
 
-A full-stack web application that mines contrarian perspectives from Lenny's Podcast using a three-agent AI workflow. Converted from CLI to web interface and deployed on Google Cloud Run.
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![TypeScript](https://img.shields.io/badge/typescript-5.0%2B-blue) ![Status](https://img.shields.io/badge/status-active-success)
+
+> **"Founders don't only need recall. They need judgment."**
+
+A full-stack web application that mines contrarian perspectives from Lenny's Podcast using a three-agent AI workflow. Most RAG tools answer *"What did Brian Chesky say?"* — this tool answers **"In my situation, is this advice smart or reckless?"**
+
+![Panchatantra Three-Fish Framework](images/three-fish-framework.png)
 
 ## Overview
 
