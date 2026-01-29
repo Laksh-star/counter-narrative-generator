@@ -332,9 +332,41 @@ This project is based on the original Counter-Narrative Generator CLI tool.
 - Data from Lenny's Podcast episodes
 - Built with FastAPI, Next.js, and deployed on Google Cloud Run
 
+## Documentation
+
+### 📚 Complete Guide Collection
+
+**Getting Started**
+- 🚀 **[SETUP.md](SETUP.md)** - Complete step-by-step setup from clone to deployment
+  - *Start here if you just cloned the repo*
+
+**Using the Tool**
+- 📖 **[USER_GUIDE.md](USER_GUIDE.md)** - How to use the tool effectively
+  - Understanding output, crafting queries, advanced configuration
+  - *Read this to get the most out of the tool*
+
+**Deployment**
+- ☁️ **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** - Production deployment guide
+  - Detailed Cloud Run setup, monitoring, security, cost management
+  - *Follow this for production deployment*
+
+**Reference**
+- 📄 **[README.md](README.md)** - This file: overview, architecture, quick start
+  - *Read this to understand what the tool does*
+
+### Quick Navigation
+
+| I want to... | Go to... |
+|--------------|----------|
+| Set up from scratch | [SETUP.md](SETUP.md) |
+| Learn how to use it | [USER_GUIDE.md](USER_GUIDE.md) |
+| Deploy to production | [SETUP.md](SETUP.md#part-4-deploy-to-google-cloud-run) → [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) |
+| Understand the architecture | [README.md](README.md#architecture) (this file) |
+| See API endpoints | [README.md](README.md#api-endpoints) or http://localhost:8000/docs |
+
 ## Support
 
 For issues, questions, or contributions:
-- Open an issue on GitHub
-- Check the [deployment guide](docs/DEPLOYMENT.md)
-- Review the [API documentation](docs/API.md)
+- Open an issue on [GitHub](https://github.com/Laksh-star/counter-narrative-generator/issues)
+- Check the guides above for detailed instructions
+- Review the [API documentation](http://localhost:8000/docs) when running locally
